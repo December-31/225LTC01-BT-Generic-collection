@@ -21,6 +21,7 @@ namespace bai8
                 DS[b] = a;
                 b--; 
             }
+
             Console.WriteLine("Danh sach sau khi hoan doi: " + string.Join(" ,", DS));
         }
     }
